@@ -1,0 +1,13 @@
+ATMEGA_AES_v1/ATM_AES_v1_fixed_key/ASCAD_data
+ATMEGA_AES_v1/ATM_AES_v1_variable_key/ASCAD_data
+
+results
+results10
+results15
+results16
+results17
+results20
+mlp_pics
+demo
+helper.py
+helperTest.py
